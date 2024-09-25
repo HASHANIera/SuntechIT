@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-29T20:59:13 IST" name="Default suite" finished-at="2024-07-29T21:01:38 IST" duration-ms="144263">
+    <groups>
+    </groups>
+    <test started-at="2024-07-29T20:59:13 IST" name="Default test" finished-at="2024-07-29T21:01:38 IST" duration-ms="144263">
+      <class name="SuntechITGlobalFramework.Test.StandAloneTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:SuntechITGlobalFramework.Test.StandAloneTest@2d3379b4]" started-at="2024-07-29T20:59:13 IST" name="launchApplication" finished-at="2024-07-29T20:59:16 IST" duration-ms="2959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="hiredevelopers()[pri:0, instance:SuntechITGlobalFramework.Test.StandAloneTest@2d3379b4]" started-at="2024-07-29T20:59:16 IST" name="hiredevelopers" finished-at="2024-07-29T21:01:38 IST" duration-ms="141270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hiredevelopers -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SuntechITGlobalFramework.Test.StandAloneTest@2d3379b4]" started-at="2024-07-29T21:01:38 IST" name="tearDown" finished-at="2024-07-29T21:01:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SuntechITGlobalFramework.Test.StandAloneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
